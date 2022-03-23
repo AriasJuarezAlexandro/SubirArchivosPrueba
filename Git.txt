@@ -1,0 +1,3 @@
+bienvenido a Git 3:34 pm
+user.name=AriasJuarezAlexandro
+user.email=ariasjuarezalex@gmail.com
